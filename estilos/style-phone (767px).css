@@ -1,0 +1,155 @@
+@media screen and (max-width: 767px) and (min-width: 376px) {
+    #home #imagen img {
+        display: none;
+    }
+    #about #imagen2 img {
+        display: none;
+    }
+    body {
+        font-family: 'Montserrat';
+    }
+    header #div-header #logo h2 {
+        padding-top: .1em;
+    }
+    header #div-header nav ul li {
+        margin-left: -.1em;
+    }
+    header #div-header nav ul li a {
+        font-size: .8em;
+    }
+    #home .titulo-nombre #cadena-typed h1 {
+        padding-top: 1.1em;
+        text-align: center;
+    }
+    #home #personal-info p {
+        margin-top: 1.3em;
+        text-align: center;
+    }
+    #home #boton {
+        font-size: .85em;
+    }
+    #about h1 {
+        margin-top: 0.7em;
+        margin-left: .5em;
+    }
+    #about #divider-about {
+        height: .2em;
+        width: 3em;
+        margin-top: -.6em;
+        margin-left: 1em;
+        margin-bottom: 1em;
+        background-color: #9FC9F3;
+    }
+    #about #parrafo-about p {
+        text-align: center;
+        margin-bottom: 1.5em;
+    }
+    #portfolio h1 {
+        padding: .5em .5em;
+        margin-bottom: -.3em;
+    }
+    #portfolio #divider-portfolio {
+        height: 0.2em;
+        width: 3em;
+        margin-top: -.8em;
+        margin-left: 1.3em;
+        margin-bottom: 2.5em;
+        background-color: #9FC9F3;
+    }
+    #portfolio #cards {
+        height: 83.5em;
+        margin-left: -1.8em;
+    }
+    #cards .card {
+        width: 17.9em;
+        margin-left: 4em;
+        margin-bottom: 1em;
+    }
+    #cards .card .card-header img {
+        width: 18em;
+        height: 15em;
+        margin-left: -1.1em;
+        margin-top: -.6em;
+        border-radius: 8px;
+    }
+    #cards .card .card-header {
+        border: none;
+    }
+    #cards .card .card-body {
+        color: black;
+    }
+    #cards .card .card-body .card-title {
+        text-align: center;
+        margin-top: -.5em;
+    }
+    #cards .card .card-body .card-text {
+        text-align: center;
+    }
+    #cards .card .card-body a {
+        text-align: center;
+        margin-left: 2em;
+        margin-right: 2em;
+        font-size: 1.3em;
+        color: black;
+        cursor: pointer;
+    }
+    #contact {
+        height: 21em;
+        background-color: #16213E;
+        color: #fff;
+    }
+    #contact h1 {
+        padding: .5em .5em;
+    }
+    #divider-contact {
+        height: 0.2em;
+        width: 3em;
+        margin-top: -1.3em;
+        margin-left: 1.5em;
+        margin-bottom: 2.5em;
+        background-color: #9FC9F3;
+    }
+    #contact #contact-form form {
+        text-align: center;
+        margin-top: -.5em;
+    }
+    #contact #contact-form form input {
+        margin-bottom: 1em;
+        font-size: 1.1em;
+    }
+    #contact #contact-form form textarea {
+        font-size: 1.2em;
+    }
+    .form input {
+        background: none;
+        border: none;
+        border-bottom: 1px solid #9FC9F3;
+        color: #fff;
+    }
+    .form textarea {
+        margin-bottom: .8em;
+        background: none;
+        border: 1px solid #9FC9F3
+    }
+    .form #boton2 {
+        font-size: .9em;
+        margin-bottom: -2em;
+    }
+    
+    footer {
+        height: 7em;
+    }
+    footer #footer-titles {
+        text-align: center;
+        padding-top: .6em;
+    }
+    footer #media {
+        margin-left: 4em;
+        font-size: 1.5em;
+    }
+    footer #media a {
+        text-align: center;
+        margin-right: .5em;
+        padding-left: 1em;
+    }
+}

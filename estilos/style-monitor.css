@@ -1,0 +1,96 @@
+@media screen and (min-width: 1800px) {
+    header #div-header nav ul li {
+        margin-right: 3em;
+    }
+    header #div-header #logo h2 {
+        margin-left: 1.5em;
+    }
+    header #div-header nav ul {
+        margin-right: 3.5em;
+    }
+    #home {
+        height: 36em;
+    }
+    #home .titulo-nombre #cadena-typed h1 {
+        margin-left: 3.5em;
+        padding-top: 1.5em;
+    }
+    #home #personal-info p {
+        margin-left: 20em;
+    }
+    #home #imagen img {
+        width: 20%;
+        margin-top: -25.5em;
+        margin-left: 70em;
+    }
+    #home .boton-style button {
+        margin-left: 32em;
+    }
+    #about {
+        height: 38em;
+    }
+    #about h1 {
+        float: right;
+        margin-right: 4.5em;
+    }
+    #about #divider-about {
+        float: right;
+        margin-top: 4em;
+        margin-right: -13.5em;
+    }
+    #about #parrafo-about p {
+        padding-top: 7em;
+        margin-bottom: -5em;
+        font-size: 1.5em;
+    }
+    #about #imagen2 img {
+        width: 24%;
+        margin-top: -23.7em;
+    }
+    #portfolio {
+        height: 41.5em;
+    }
+    #portfolio #cards {
+        width: 80%;
+        margin-left: 11em;
+        grid-gap: 2em;
+    }
+    #portfolio #card1 .card-body .card-text {
+        height: 2.99em;
+    }
+    #portfolio #cards .card-body a i {
+        font-size: 1.2em;
+    }
+    #contact {
+        height: 25em;
+    }
+    #contact h1 {
+        text-align: center;
+        margin-right: .5em;
+    }
+    #contact #divider-contact {
+        margin-left: 51.5em;
+        width: 4em;
+    }
+    #contact #contact-form form input {
+        font-size: 1.2em;
+    }
+    #contact #contact-form form textarea {
+        font-size: 1.3em;
+    }
+    #contact #contact-form form a button {
+        font-size: .9em;
+    }
+    footer #footer-titles h2 {
+        font-size: 2em;
+        padding-top: .2em;
+    }
+    footer #footer-titles h6 {
+        margin-top: -.2em;
+        margin-right: .1em;
+    }
+    footer #media a {
+        font-size: 1.3em;
+        margin-top: .3em;
+    }
+}

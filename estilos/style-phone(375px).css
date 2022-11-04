@@ -1,0 +1,122 @@
+@media screen and (max-width: 375px) {
+    header #div-header #logo h2 { /*HOME*/
+        padding-top: .1em;
+    }
+    header #div-header nav ul li {
+        margin-left: -.2em;
+        margin-top: 1.6em;
+        padding-right: -2em;
+        font-size: .8em;
+    }
+    #home .titulo-nombre #cadena-typed h1 {
+        text-align: center;
+        padding-top: .3em;
+        margin-bottom: .6em;
+    }
+    #home #personal-info p {
+        text-align: center;
+    }
+    #home #boton {
+        font-size: .85em;
+    }
+    #home #imagen img {
+        display: none;
+    }
+    #about h1 { /*ABOUT ME*/
+        padding-top: .55em;
+    }
+    #about #divider-about {
+        height: 0.2em;
+        width: 3em;
+        margin-top: -.6em;
+        margin-left: .1em;
+        margin-bottom: 1em;
+        background-color: #9FC9F3;
+    }
+    #about #parrafo-about p {
+        text-align: center;
+    }
+    #about #imagen2 img {
+        display: none;
+    }
+    #portfolio h1 { /*PORTFOLIO*/
+        padding-top: .5em;
+        padding-left: .6em;
+        padding-bottom: 1em;
+    }
+    #portfolio #divider-portfolio {
+        height: 0.2em;
+        width: 3em;
+        margin-top: -2.2em;
+        margin-left: 1.3em;
+        margin-bottom: 2.5em;
+        background-color: #9FC9F3;
+    }
+    #portfolio #cards {
+        width: 80%;
+        height: 83.5em;
+        margin-left: 1.8em;
+    }
+    #cards .card {
+        margin-bottom: 1em;
+    }
+    #portfolio #cards .card {
+        color: #000
+    }
+    #portfolio #cards .card .card-header {
+        width: 100%;
+    }
+    #portfolio #cards .card .card-header img {
+        width: 114.1%;
+        margin-left: -1.03em;
+        margin-top: -.5em;
+        margin-bottom: -.5em;
+    }
+    #portfolio #cards .card .card-body a {
+        color: #000;
+        font-size: 1.3em;
+        margin-left: 2em;
+        margin-right: 2em;
+        justify-content: space-between;
+    }
+    #contact h1 { /*CONTACT*/
+        padding-top: .4em;
+        padding-left: .4em;
+        padding-bottom: .5em;
+    }
+    #contact #divider-contact {
+        height: 0.2em;
+        width: 3em;
+        margin-top: -1.3em;
+        margin-left: 1.3em;
+        margin-bottom: 2.5em;
+        background-color: #9FC9F3;
+    }
+    #contact #contact-form form {
+        font-size: 1.1em;
+        text-align: center;
+    }
+    #contact #contact-form form input, textarea {
+        margin-bottom: .8em;
+    }
+    .form #boton2 {
+        font-size: .8em;
+        margin-bottom: 1.5em;
+    }
+    footer {
+        height: 7em;
+    }
+    footer #footer-titles {
+        text-align: center;
+        padding-top: .6em;
+    }
+    footer #media {
+        margin-left: 3em;
+        font-size: 1.5em;
+    }
+    footer #media a {
+        text-align: center;
+        margin-right: .5em;
+        padding-left: 1em;
+    }
+}

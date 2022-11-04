@@ -1,0 +1,136 @@
+@media screen and (min-width: 768px) and (max-width: 1020px) {
+    header #div-header #logo h2 { /*HEADER*/
+        font-size: 2.6em;
+        padding-left: .3em;
+    }
+    #home { /*HOME*/
+        height: 20em;
+    }
+    #home .titulo-nombre #cadena-typed h1 {
+        font-size: 1.8em;
+        padding-top: .5em;
+        padding-left: 3.4em;
+    }
+    #home #personal-info p {
+        width: 38%;
+        margin-left: 6em;
+    }
+    #home #boton {
+        margin-right: 17.5em;
+        margin-top: -.5em;
+    }
+    #home #imagen img {
+        width: 28%;
+        margin-top: -19.5em;
+        margin-left: 28em;
+        border: 3px solid #9FC9F3;
+    }
+    #about { /*ABOUT ME*/
+        height: 29.8em;
+    }
+    #about h1 {
+        padding-top: .4em;
+        padding-right: 1.8em;
+        float: right;
+    }
+    #about #divider-about {
+        height: 0.2em;
+        width: 3.5em;
+        margin-top: 3.3em;
+        margin-right: -9em;
+        margin-bottom: 1em;
+        background-color: #9FC9F3;
+        float: right;
+    }
+    #about #parrafo-about p {
+        width: 40%;
+        font-size: 1em;
+        float: right;
+        padding-top: 1em;
+        margin-left: 18.8em;
+        margin-right: 3em;
+    }
+    #about #imagen2 img {
+        width: 45%;
+        margin-top: -28.3em;
+        margin-left: -.75em;
+    }
+    #portfolio { /*PORTFOLIO*/
+        height: 94em;
+    }
+    #portfolio h1 {
+        padding-top: .4em;
+        padding-left: .4em;
+        padding-bottom: 1em;
+    }
+    #portfolio #divider-portfolio {
+        height: 0.2em;
+        width: 3.5em;
+        margin-top: -2.5em;
+        margin-left: 1.2em;
+        margin-bottom: 1em;
+        background-color: #9FC9F3;
+    }
+    #portfolio #cards {
+        width: 40%;
+        margin-left: 13.8em;
+    }
+    #portfolio #cards .card {
+        margin-bottom: 1em;
+    }
+    #portfolio #cards .card .card-header {
+        width: 100%;
+        border: none;
+        background-color: #fff;
+    }
+    #portfolio #cards .card .card-header img {
+        width: 113.3%;
+        margin-left: -1.05em;
+        margin-top: -.55em;
+    }
+    #portfolio #cards .card .card-body {
+        background-color: #fff;
+        color: black;
+        text-align: center;
+    }
+    #portfolio #cards .card .card-body a {
+        margin-right: 1em;
+        padding-right: -2em;
+        margin-left: 1em;
+        font-size: 1.5em;
+        color: #000;
+    }
+    #contact h1 {
+        padding-top: .4em;
+        text-align: center;
+    }
+    #contact #divider-contact {
+        height: 0.2em;
+        width: 3.5em;
+        margin-top: -.6em;
+        margin-left: 16.3em;
+        margin-bottom: 1.4em;
+        background-color: #9FC9F3;
+    }
+    #contact form input {
+        margin-left: 15em;
+        margin-bottom: 1em;
+    }
+    #contact form textarea {
+        margin-left: 15.7em;
+        margin-bottom: 1em;
+    }
+    #contact form #boton2 {
+        margin-bottom: 1em;
+    }
+    footer #footer-titles {
+        text-align: center;
+    }
+    footer #media {
+        text-align: center;
+        font-size: 1.5em;
+        letter-spacing: 1em;
+        margin-left: .6em;
+        padding-bottom: .3em;
+    }
+}

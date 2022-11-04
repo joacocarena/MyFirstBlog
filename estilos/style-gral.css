@@ -1,0 +1,104 @@
+body {
+    font-family: 'Montserrat';
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+header, #home {
+    background-color: #191c32;
+    color: #fff;
+}
+
+header #div-header{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+header #div-header #logo h2 {
+    margin-left: 20px;
+    font-size: 2.5em;
+}
+
+header #div-header #logo h2 span {
+    color: #9FC9F3;
+}
+
+header #div-header nav ul li {
+    margin-right: 1.3em;
+    margin-top: 1em;
+    font-size: 1em;
+    list-style: none;
+    text-decoration: none;
+}
+
+header #div-header nav ul {
+    margin-right: 1.1em;
+}
+
+header #div-header nav ul li a {
+    text-decoration: none;
+}
+
+header #div-header nav ul li .active{
+    text-decoration: underline;
+    color: purple;
+}
+
+#home {
+    margin-top: 0.04em;
+    height: 18.5rem;
+}
+
+#home .titulo-nombre #cadena-typed .typed span {
+    color: #9FC9F3;
+}
+
+#home .boton-style button, #boton, #boton2 {
+    padding: 0.6em;
+    cursor: pointer;
+    color: black;
+    font-weight: 500;
+    border-radius: 14px;
+    border: none;
+    box-shadow: 3px 3.5px 11px -4px rgba(102, 231, 200, .69);
+}
+
+#portfolio {
+    background-color: #191c32;
+    color: #fff;
+}
+
+#contact {
+    background-color: #16213E;
+    color: #fff;
+}
+
+#contact #contact-form form input {
+    background: none;
+    border: none;
+    border-bottom: 1px solid #9FC9F3;
+    color: #fff;
+}
+
+#contact #contact-form form textarea {
+    background: none;
+    border: 1px solid #9FC9F3;
+}
+
+footer {
+    background-color: #112B3C;
+    color: #fff;
+}
+
+footer #media a {
+    color: #fff;
+    background: none;
+}
+/* EXTRA */
+header #div-header nav ul li a:hover {
+    color:#9FC9F3;
+    transition: 180ms ease-in;
+} 
