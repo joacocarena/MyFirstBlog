@@ -13,24 +13,25 @@
     }
     #home .titulo-nombre #cadena-typed h1 {
         font-size: 3em;
-        padding-top: .8em;
-        padding-left: 6.5em;
+        padding-top: 1.3em;
+        padding-left: 5em;
     }
     #home #personal-info p {
         font-size: 1.5em;
-        width: 30%;
+        width: 40%;
         text-align: start;
-        margin-left: 13em;
+        margin-top: .5em;
+        margin-left: 10em;
     }
-    #home .boton-style button {
-        margin-left: 21em;
+    #home button {
+        margin-right: 16em;
         margin-top: .2em;
         font-size: 1.3em;
     }
     #home #imagen img {
-        width: 22%;
-        margin-top: -27em;
-        margin-left: 50em;
+        width: 24%;
+        margin-top: -24.3em;
+        margin-left: 52.5em;
         border: 5px solid #9FC9F3;
     }
     #about { /* SECCION ABOUT ME */
@@ -55,12 +56,9 @@
         padding-left: 22em;
         padding-top: 1em;
     }
-    #about #parrafo-about {
-        
-    }
     #about #imagen2 img {
         width: 30%;
-        margin-top: -34em;
+        margin-top: -35.7em;
         margin-left: -.7em;
     }
     #portfolio { /* SECCION PORTFOLIO */

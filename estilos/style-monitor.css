@@ -12,21 +12,23 @@
         height: 36em;
     }
     #home .titulo-nombre #cadena-typed h1 {
-        margin-left: 3.5em;
-        padding-top: 1.5em;
+        margin-left: 4.5em;
+        padding-top: 2em;
     }
     #home #personal-info p {
-        margin-left: 20em;
+        width: 35%;
+        margin-left: 19em;
     }
     #home #imagen img {
         width: 20%;
-        margin-top: -25.5em;
+        margin-top: -24.5em;
         margin-left: 70em;
     }
     #home .boton-style button {
         margin-left: 32em;
+        margin-top: 1em;
     }
-    #about {
+    #about { /*ABOUT ME*/
         height: 38em;
     }
     #about h1 {
@@ -45,9 +47,10 @@
     }
     #about #imagen2 img {
         width: 24%;
-        margin-top: -23.7em;
+        margin-top: -26.1em;
+        border: none;
     }
-    #portfolio {
+    #portfolio { /*PORTFOLIO*/
         height: 41.5em;
     }
     #portfolio #cards {
@@ -61,7 +64,7 @@
     #portfolio #cards .card-body a i {
         font-size: 1.2em;
     }
-    #contact {
+    #contact { /*CONTACT*/
         height: 25em;
     }
     #contact h1 {
@@ -69,7 +72,7 @@
         margin-right: .5em;
     }
     #contact #divider-contact {
-        margin-left: 51.5em;
+        margin-left: 49.5em;
         width: 4em;
     }
     #contact #contact-form form input {
